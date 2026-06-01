@@ -80,6 +80,4 @@ Both models are evaluated using the paper's three-threshold rejection rule: a pr
 
 ## Resources
 
-- Full Report: (report/CX_Project_Report.pdf)
-- Slides:(slides/CX_Project_Slides.pdf)
-- Original Paper — LeCun et al. (1989): (paper/LeCun1989.pdf)
+- Original Paper — LeCun et al. (1989): (https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
