@@ -81,3 +81,6 @@ Both models are evaluated using the paper's three-threshold rejection rule: a pr
 ## Resources
 
 - Original Paper — LeCun et al. (1989): (https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
+
+## View notebook on Colab
+https://colab.research.google.com/drive/1EsJiZPkTSVAAOW_o1AAbj2qj1DJLQX_m
